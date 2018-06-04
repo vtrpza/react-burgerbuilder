@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import {aux as Aux} from '../../hoc/Auxiliar';
+import {aux as Aux} from '../../hoc/Auxiliary';
 import {burger as Burger} from '../../components/Burger/Burger';
 
 export default class BurgerBuilder extends Component {

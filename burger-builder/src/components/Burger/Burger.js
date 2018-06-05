@@ -17,7 +17,7 @@ export const burger = (props) =>  {
         transformedIngredients = <p>Please start adding ingredients!</p>;
     }
     
-    //turning object of key value pairs into an array of        ingredients
+    //turning object of key value pairs into an array of ingredients
     //flattened the array of ingredients to read its length
     //value is important to define how many ingredients
     //key is important to define which type of ingredients
